@@ -64,7 +64,7 @@ SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", "https://t.me/+xIDVAEvE5m0yMTNl")
 UPDATE_CHAT = os.getenv("UPDATE_CHAT", "https://t.me/+xIDVAEvE5m0yMTNl")
 
 SUDO = list(map(int, os.getenv("SUDO", "7553434931").split(',')))
-OWNER_ID = int(os.getenv("OWNER_ID", "7553434931"))
+OWNER_ID = int(os.getenv("OWNER_ID", "6804892450"))
 
 
 
