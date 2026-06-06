@@ -39,7 +39,7 @@ TOKEN = os.getenv("TOKEN", "7684044522:AAGQxRtiBs0PLVUOXhM-vusZuiX1Z0cP5aU")
 
 GLOG = os.getenv("GLOG", "hug_log")
 CHARA_CHANNEL_ID = os.getenv("CHARA_CHANNEL_ID", "hug_log")
-SUPPORT_CHAT_ID = int(os.getenv("SUPPORT_CHAT_ID", "-1003868807342"))
+SUPPORT_CHAT_ID = int(os.getenv("SUPPORT_CHAT_ID", "-1003995907575"))
 
 mongo_url = os.getenv(
     "MONGO_URL",
